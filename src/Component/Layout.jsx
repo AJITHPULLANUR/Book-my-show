@@ -1,5 +1,6 @@
 import React from "react";
 import logos from "./Logo/PngItem_5784441.png";
+import logo from "../Component/Logo/logo.png"
 
 import { Link, Outlet } from "react-router-dom";
 
@@ -10,7 +11,7 @@ const Layout = () => {
         <div className="firstbar">
           <div className="firstpart">
             <Link to="/">
-              <img width="100px" src={logos} alt="" />
+              <img width="110px" height="70px" src={logo} alt="" />
             </Link>
 
             <input

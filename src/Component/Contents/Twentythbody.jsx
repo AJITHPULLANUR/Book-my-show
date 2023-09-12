@@ -1,5 +1,5 @@
 import React from 'react'
-import book from '../Logo/PngItem_5784441.png';
+import book from '../Logo/logo.png';
 import Twentyone from './Twentyone';
 
 
@@ -11,7 +11,7 @@ const Twentythbody = () => {
             <div className='bookdiv'>
 
             </div>
-            <img width="120px" height="50px" src={book} alt="" />
+            <img width="120px" height="70px" src={book} alt="" />
             <div className='bookdiv'>
 
             </div>

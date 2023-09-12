@@ -20,11 +20,11 @@ const Twentyone = () => {
 
           
 
-             <a href="https://www.instagram.com/bookmyshowin/?hl=en"><img className='socio' src={ins} alt="" /></a>
-            <a href="https://www.youtube.com/user/bookmyshow"><img className='socio' src={ut} alt="" /></a>
-            <a href="https://www.facebook.com/BookMyShowIN/"><img className='item' src={fac} alt="" /></a>
-            <a href="https://www.linkedin.com/company/bookmyshow/?originalSubdomain=in"><img className='socio' src={link} alt="" /></a>
-            <a href="https://twitter.com/bookmyshow?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"><img className='socio' src={tw} alt="" /> </a>
+             <a href="https://www.instagram.com/fairyland_band_official/?hl=en"><img className='socio' src={ins} alt="" /></a>
+            <a href="https://www.youtube.com/channel/UCOOoeFFt641fiLUghzE9CHg"><img className='socio' src={ut} alt="" /></a>
+            <a href="https://www.facebook.com/fairyland/"><img className='item' src={fac} alt="" /></a>
+            <a href="https://www.linkedin.com/company/children's-fairyland/"><img className='socio' src={link} alt="" /></a>
+            <a href="https://twitter.com/fairyland_en?lang=en"><img className='socio' src={tw} alt="" /> </a>
            
             </div>
 
